@@ -2,7 +2,9 @@ Hey, it's Jo speaking.
 
 I'm a PM exploring what's possible when AI meets real human problems.
 
-After 7+ years focused on growth, monetization, and customer-facing products, I'm now trying to build things. This GitHub is my playground for trying things out, breaking things, and learning by doing.
+I have 7+ years of PM experience working on growth, monetization, and customer-facing products - collaborating with engineering teams and talking to users. Now I'm using AI to build side projects that solve real problems.
+
+This GitHub is my playground for trying things out, breaking things, and learning by doing.
 
 What drives me: Humans are amazing. The spontaneity, irrationality, and creativity are what make human different from machines. I'm interested in building AI tools that work with that messiness, not against it.
 
